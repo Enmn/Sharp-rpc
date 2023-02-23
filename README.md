@@ -19,14 +19,11 @@ Once you run the program, it may be easy for you and you can understand it direc
 - `secondbutton` It's a button in the second row
 - `timestamp` It is a time that you can enable or disable by simply clicking on it 
 
-## 
-
-
 ## Contribute
-
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
 
 ## License
-To the extent possible under law, [Matias Singers](https://mts.io) has waived all copyright and related or neighboring rights to this work.
-
+The source code for the site is licensed under the MIT license<br/>
+Find a file called [LICENSE](LICENSE)<br/>
+Developr - [Emnm](https://github.com/Enmn)
