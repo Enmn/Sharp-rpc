@@ -42,6 +42,9 @@ Running the program is straightforward, but for those who might need guidance, h
 - **Asset Discovery**
   Seamlessly discover and choose from your available Discord assets directly within the application.
 
+## Result
+<img src="https://i.imgur.com/Vw2Hxyu.png"> <img src="https://i.imgur.com/5tAmXHv.png">
+
 ## Contribute
 
 Contributions are highly encouraged! If you're interested in contributing to Sharp Rich Presence, please familiarize yourself with the [contribution guidelines](contributing.md) before getting started.
