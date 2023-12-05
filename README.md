@@ -5,7 +5,7 @@ Sharp Rich Presence is a versatile program that empowers you to personalize your
 ## Installation
 To install Sharp Rich Presence, follow these simple steps:
 
-1. Navigate to the [Releases](https://github.com/Enmn/sharp-rpc/releases/tag/SharpRPC) section of the repository.
+1. Navigate to the [Releases](https://github.com/Enmn/Sharp-rpc/releases/tag/SharpRPC) section of the repository.
 2. Find the release version you want to download.
 3. Download the latest version as a `.zip` file. You can do this by clicking on the "Source code (zip)" link on the release page.
 4. Extract the contents of the downloaded zip file to a location of your choice.
